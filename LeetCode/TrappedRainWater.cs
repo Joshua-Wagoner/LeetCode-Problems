@@ -2,16 +2,14 @@
 {
     /**
      * Author: Joshua Wagoner
-     * DLM: 11/13/2024
+     * DLM: 11/14/2024
      * Copyright 2024, 2025 All Rights Reserved
      * 
      * Problem came from Leetcode
      * Name of Problem: Trapped Rain Water
      * source: https://leetcode.com/problems/trapping-rain-water/description/
      * 
-     * Note: Solution did not meet time requirements, needs improvement.
-     * After 20,000 entries, it checked bounds 20,000 times. Not only should it only check bounds
-     * after shifting, it should check to see if there even is a bound. If not, return 0.
+     * I think its good enough. Im no pro, only an amaetuer.
      */
     public class TrappedRainWater
     {
